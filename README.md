@@ -1,4 +1,4 @@
-# shell-project
+# shell-scripts
 
 ## pure-bash-bible
 
@@ -6,7 +6,7 @@
 
 [bash奇巧淫技(中文版)](https://github.com/A-BenMao/pure-bash-bible-zh_CN)
 
-## shell scripts
+## scripts
 
 ### colines
 
