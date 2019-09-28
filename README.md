@@ -1,4 +1,4 @@
-# shell_project
+# shell-project
 
 ## pure-bash-bible
 
